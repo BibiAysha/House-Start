@@ -4,7 +4,7 @@
 This recipe uses the [Watson Conversation](https://www.ibm.com/watson/developercloud/conversation.html) and [Watson Text to Speech](https://www.ibm.com/watson/developercloud/text-to-speech.html) services to turn TJ into a chatting robot.
 
 ## Hardware
-This recipe requires a TJBot with a microphone and a speaker.
+This recipe requires a TJBot with a microphone, speaker and servo.
 
 ## Build and Run
 First, make sure you have configured your Raspberry Pi for TJBot.
